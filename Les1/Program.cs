@@ -8,6 +8,7 @@ namespace Les1 {
 
             string invoer = Console.ReadLine();
             Console.WriteLine(invoer);
+
         }
     }
 }
